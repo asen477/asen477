@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/asen477/scrapy)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asen477&show_icons=true&theme=radical)
