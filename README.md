@@ -1,6 +1,6 @@
 ### Hi 👋 My's Blogs~ 😄
 
-<!--
+
 **asen477/asen477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,15 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
+- [个人网站](https://trunksit.cn)
+
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asen477&show_icons=true&theme=radical)
