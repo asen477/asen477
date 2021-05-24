@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 关于我
+- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
+- [CSDN](https://zhousiwei.blog.csdn.net/)
+- [微博](http://weibo.com/jayinfo)
+
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 
