@@ -12,11 +12,10 @@ I will find you... Even if I have to search the world over...Sometime !somewhere
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+---
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### 关于我
 - [个人网站](https://trunksit.cn)
-
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asen477&show_icons=true&theme=radical)
