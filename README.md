@@ -13,7 +13,6 @@ I will find you... Even if I have to search the world over...Sometime !somewhere
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### 关于我
 - [个人网站](https://trunksit.cn)
